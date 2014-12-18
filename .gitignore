@@ -1,0 +1,9 @@
+###################
+# LaTeX Generated #
+###################
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.pdf
