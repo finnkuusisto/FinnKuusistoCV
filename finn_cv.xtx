@@ -47,64 +47,83 @@ Github:// \href{https://github.com/finnkuusisto}{\bf finnkuusisto}
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.33\textwidth}
+\begin{minipage}[t]{0.32\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Research
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Research} 
-\location{
-My research is in machine learning \\
-and data mining, with applications \\
-in medicine. In particular, my work \\
-focuses on applications in breast \\
-cancer overtreatment, adverse drug \\
-events, and personalized medicine.
+\locationjustified{
+My research is in machine learning and data mining, with applications in medicine.
+In particular, my work focuses on medical applications of uplift modeling, breast cancer prediction and overtreatment, adverse drug events, and personalized medicine.
 }
-
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Coursework}
-
-\subsection{Graduate}
-Machine Learning \\
-Bioinformatics \\
-Stats for Bioscience \\
-Artificial Intelligence \\
-Computer Vision \\
-Natural Language Processing \\
-Linguistics \\
-Graphics \\
-Mobile and Wireless Networking
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectionsep
 
 \section{Technical Skills}
+
 \subsection{Languages}
-Java \textbullet{}  Python \textbullet{} R \textbullet{} C\# \textbullet{} C++ \\
-C \textbullet{} Javascript \textbullet{} Prolog \textbullet{} \LaTeX\ \\ 
-\subsection{Tools and APIs}
-MySQL \textbullet{} Git \textbullet{} Weka \textbullet{} SciKitLearn \\
-Play Framework 2.0 \textbullet{} Flask
+Java \textbullet{}  Python \textbullet{} R \textbullet{} C\# \textbullet{} C++ \textbullet{} C \\
+Javascript \textbullet{} Prolog \textbullet{} Lua \textbullet{} \LaTeX\
 \sectionsep
+
+\subsection{Tools and APIs}
+MySQL \textbullet{} Git \textbullet{} Weka \textbullet{} SciKit-Learn \\
+Play Framework 2.0 \textbullet{} Flask Framework
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COMMUNITY WORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectionsep\sectionsep
+
+\section{Community Work}
+
+\subsection{Peer Reviewing}
+\descript{AIStats | 2015}
+\descript{AMIA Annual Symposium | 2014}
+\sectionsep
+
+\subsection{Editorial Work}
+\descript{ACM - XRDS Magazine}
+\descriptsmall{Department Editor}
+\location{Jan 12 – Present}
+Editor for Back, a then-now comparison of technology fitting the issue theme.
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SELECTED COURSES
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%\section{Selected Courses}
+%Machine Learning \textbullet{} Bioinformatics \\
+%Stats for Bioscience \textbullet{} Computer Vision \\
+%AI \textbullet{} Natural Language Processing \\
+%Linguistics \textbullet{} Graphics \\
+%Mobile and Wireless Networking
+%\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     BUFFER COLUMN
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.03\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
 %     COLUMN TWO
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\end{minipage} 
+\end{minipage}
 \hfill
-\begin{minipage}[t]{0.66\textwidth} 
+\begin{minipage}[t]{0.65\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
@@ -125,8 +144,7 @@ Play Framework 2.0 \textbullet{} Flask
 \descript{BA | Computer Science, Classics}
 \location{August 03 - May 07}
 Magna Cum Laude \textbullet{} Phi Beta Kappa honor society \textbullet{} Eta Sigma Phi honor society \\
-President's List
-Dean's List \textbullet{} Cross Country \textbullet{} Track \& Field
+President's List \textbullet{} Dean's List \textbullet{} Cross Country \textbullet{} Track \& Field
 
 \sectionsep
 
@@ -138,34 +156,52 @@ Dean's List \textbullet{} Cross Country \textbullet{} Track \& Field
 
 \runsubsection{University of Wisconsin - Madison}
 \descript{| Madison, WI}
-\location{Research Assistant | May 11 – Present}
-%\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\location{Lecturer | June 10 - August 10}
-\location{Teaching Assistant | September 08 - May 11}
+
+\descriptsmall{Research Assistant | May 11 – Present}
+Research with Jude Shavlik, David Page, and Elizabeth Burnside in uplift modeling, breast cancer prediction, adverse drug event prediction, and personalized medicine.
+
+\descriptsmall{Lecturer | June 10 - August 10}
+Lecturer for 8-week summer session of the intro CS course.
+Included development of course syllabus, preparing/grading assignments/exams, and supervising a TA.
+
+\descriptsmall{Teaching Assistant | September 08 - May 11}
+Teaching assistant for the intro CS course.
+Included four semesters as a section instructor, and two semesters as a lab TA.
 \sectionsep
+
+%------------------------%
 
 \runsubsection{Consulting}
 \descript{| Madison, WI}
-\location{Data Science Consultant | November 14 – Present}
+
+\descriptsmall{Data Science Consultant | November 14 – Present}
+Consultant work on various tasks in predictive modeling and data mining, including: 
+Data collection and processing, design and implementation of predictive modeling piplines, and model evaluation and selection.
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+%\begin{tightemize}
+%\item Data collection and processing
+%\item Design and implementation of predictive modeling pipelines
+%\item Model evaluation and selection
+%\end{tightemize}
 \sectionsep
+
+%------------------------%
 
 \runsubsection{Pickup Running LLC}
 \descript{| Madison, WI}
-\location{Co-Founder | May 11 – Present}
+
+\descriptsmall{Co-Founder | May 11 – Present}
+Webapp for organizing group runs around Madison. Like pickup games for running.
 \sectionsep
+
+%------------------------%
 
 \runsubsection{Open Systems International}
 \descript{| Plymouth, MN}
-\location{Software Engineer | August 07 – August 08}
+
+\descriptsmall{Software Engineer | August 07 – August 08}
+Developed SCADA software for power systems, and worked on the compile team.
 \sectionsep
-
-%\runsubsection{Google}
-%\descript{| Software Engineering Intern }
-%\location{May 2013 – Aug 2013 | Mountain View, CA}
-%\begin{tightemize}
-%\item Worked on the YouTube Captions team in primarily vanilla Javascript and Python to plan, design and develop the full stack implementation of a new framework to add and edit Automatic Speech Recognition captions.%\item Created a backbone.js-like framework for the Captions editor.%\item All code was reviewed, perfected, and pushed to production.%\end{tightemize}
-%\sectionsep
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
@@ -190,7 +226,9 @@ Dean's List \textbullet{} Cross Country \textbullet{} Track \& Field
 
 \section{Publications} 
 \bibliographystyle{abbrv}
+\small{
 \bibliography{publications}
+}
 \nocite{*}
 
 \end{document}  \documentclass[]{article}
