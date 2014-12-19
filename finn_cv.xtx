@@ -36,9 +36,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Finn}{Kuusisto}{ 
 \urlstyle{same}\url{http://cs.wisc.edu/~finn} \\
-\href{mailto:finn@cs.wisc.edu}{finn@cs.wisc.edu} | 651.434.2478 \\
-LinkedIn://  \href{https://www.linkedin.com/pub/finn-kuusisto/7/17b/363}{\bf finn-kuusisto}
-Github:// \href{https://github.com/finnkuusisto}{\bf finnkuusisto}
+\href{mailto:finn@cs.wisc.edu}{finn@cs.wisc.edu} | 651.434.2478
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -53,17 +51,15 @@ Github:// \href{https://github.com/finnkuusisto}{\bf finnkuusisto}
 %     Research
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research} 
-\locationjustified{
-My research is in machine learning and data mining, with applications in medicine.
-In particular, my work focuses on medical applications of uplift modeling, breast cancer prediction and overtreatment, adverse drug events, and personalized medicine.
+\section{Research}
+\textbf{My research is in machine learning and data mining, with applications in medicine.
+In particular, my work focuses on medical applications of uplift modeling, breast cancer prediction and overtreatment mitigation, adverse drug event prediction, integration of expert knowledge for model development, and personalized medicine in general.
 }
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\sectionsep
 
 \section{Technical Skills}
 
@@ -80,7 +76,6 @@ Play Framework 2.0 \textbullet{} Flask Framework
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COMMUNITY WORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\sectionsep\sectionsep
 
 \section{Community Work}
 
@@ -97,17 +92,15 @@ Editor for Back, a then-now comparison of technology fitting the issue theme.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SELECTED COURSES
+%     Links
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%\section{Selected Courses}
-%Machine Learning \textbullet{} Bioinformatics \\
-%Stats for Bioscience \textbullet{} Computer Vision \\
-%AI \textbullet{} Natural Language Processing \\
-%Linguistics \textbullet{} Graphics \\
-%Mobile and Wireless Networking
-%\sectionsep
+\section{Links}
 
+LinkedIn://  \href{https://www.linkedin.com/pub/finn-kuusisto/7/17b/363}{\bf finn-kuusisto} \\
+Github:// \href{https://github.com/finnkuusisto}{\bf finnkuusisto}
+
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     BUFFER COLUMN
@@ -176,7 +169,7 @@ Included four semesters as a section instructor, and two semesters as a lab TA.
 
 \descriptsmall{Data Science Consultant | November 14 – Present}
 Consultant work on various tasks in predictive modeling and data mining, including: 
-Data collection and processing, design and implementation of predictive modeling piplines, and model evaluation and selection.
+Data collection and processing, design and implementation of predictive modeling pipelines, and model evaluation and selection.
 %\vspace{\topsep} % Hacky fix for awkward extra vertical space
 %\begin{tightemize}
 %\item Data collection and processing
@@ -202,22 +195,6 @@ Webapp for organizing group runs around Madison. Like pickup games for running.
 \descriptsmall{Software Engineer | August 07 – August 08}
 Developed SCADA software for power systems, and worked on the compile team.
 \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-%\section{Awards} 
-%\begin{tabular}{rll}
-%2014	     & top 52/2500  & KPCB Engineering Fellow\\
-%2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-%2013	     & National  & Jump Trading Challenge Finalist\\
-%2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-%2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-%2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
-%2010     & National & Comp. Soc. of India's National Programming Contest\\
-%\end{tabular}
-%\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PUBLICATIONS
