@@ -81,8 +81,9 @@ Play Framework 2.0 \textbullet{} Flask Framework
 
 \subsection{Peer Reviewing}
 \descriptsmall{NIPS | 2015}
-\descriptsmall{AIStats | 2015}
+\descriptsmall{AIStats | 2015-16}
 \descriptsmall{AMIA Annual Symposium | 2014-15}
+\descriptsmall{AMIA Joint Summits | 2016}
 \sectionsep
 
 \subsection{Editorial Work}
@@ -128,7 +129,7 @@ Github:// \href{https://github.com/finnkuusisto}{\bf finnkuusisto}
 \runsubsection{University of Wisconsin - Madison}
 \descript{| Madison, WI}
 \descript{PhD | Computer Science \footnotesize{(Machine Learning)}}
-\location{Expected Summer 2015}
+\location{January 10 - August 2015}
 \descript{MS | Computer Science}
 \location{September 08 - December 09}
 \sectionsep
@@ -148,10 +149,19 @@ President's List \textbullet{} Dean's List \textbullet{} Cross Country \textbull
 
 \section{Experience}
 
+\runsubsection{Morgridge Institute for Research}
+\descript{| Madison, WI}
+
+\descriptsmall{Postdoctoral Research Associate | September 15 – Present}
+Research with the Regenerative Biology lab building models from genetic expression data to predict when compounds are toxic to developing neurological tissues.
+\sectionsep
+
+%------------------------%
+
 \runsubsection{University of Wisconsin - Madison}
 \descript{| Madison, WI}
 
-\descriptsmall{Research Assistant | May 11 – Present}
+\descriptsmall{Research Assistant | May 11 – August 15}
 Research with Jude Shavlik, David Page, and Elizabeth Burnside in uplift modeling, breast cancer prediction, adverse drug event prediction, and personalized medicine.
 
 \descriptsmall{Lecturer | June 10 - August 10}
@@ -168,9 +178,8 @@ Included four semesters as a section instructor, and two semesters as a lab TA.
 \runsubsection{Consulting}
 \descript{| Madison, WI}
 
-\descriptsmall{Data Science Consultant | November 14 – Present}
-Consultant work on various tasks in predictive modeling and data mining, including: 
-Data collection and processing, design and implementation of predictive modeling pipelines, and model evaluation and selection.
+\descriptsmall{Data Science Consultant | November 14 – August 15}
+Consulting on data collection and processing, design and implementation of predictive modeling pipelines, and model evaluation and selection.
 %\vspace{\topsep} % Hacky fix for awkward extra vertical space
 %\begin{tightemize}
 %\item Data collection and processing
@@ -184,8 +193,8 @@ Data collection and processing, design and implementation of predictive modeling
 \runsubsection{Pickup Running LLC}
 \descript{| Madison, WI}
 
-\descriptsmall{Co-Founder | May 11 – Present}
-Webapp for organizing group runs around Madison. Like pickup games for running.
+\descriptsmall{Co-Founder | June 13 – Present}
+% Webapp for organizing group runs around Madison. Like pickup games for running.
 \sectionsep
 
 %------------------------%
@@ -194,7 +203,7 @@ Webapp for organizing group runs around Madison. Like pickup games for running.
 \descript{| Plymouth, MN}
 
 \descriptsmall{Software Engineer | August 07 – August 08}
-Developed SCADA software for power systems, and worked on the compile team.
+% Developed SCADA software for power systems, and worked on the compile team.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -202,7 +211,7 @@ Developed SCADA software for power systems, and worked on the compile team.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{minipage}
 
-\section{Publications} 
+\section{Selected Publications} 
 \bibliographystyle{abbrv}
 \small{
 \bibliography{publications}
