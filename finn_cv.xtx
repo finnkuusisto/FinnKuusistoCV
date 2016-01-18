@@ -53,7 +53,7 @@
 
 \section{Research}
 \textbf{My research is in machine learning and data mining, with applications in medicine.
-In particular, my work focuses on medical applications of uplift modeling, breast cancer prediction and overtreatment mitigation, adverse drug event prediction, integration of expert knowledge for model development, and personalized medicine in general.
+In particular, my work focuses on using clinical and genetic data for treatment assignment, adverse drug event prediction, integration of expert knowledge, and precision medicine in general.
 }
 \sectionsep
 
@@ -80,16 +80,19 @@ Play Framework 2.0 \textbullet{} Flask Framework
 \section{Community Work}
 
 \subsection{Peer Reviewing}
-\descriptsmall{NIPS | 2015}
-\descriptsmall{AIStats | 2015-16}
-\descriptsmall{AMIA Annual Symposium | 2014-15}
-\descriptsmall{AMIA Joint Summits | 2016}
+NIPS | 2015\\
+ICML | 2016\\
+AIStats | 2015-16\\
+AMIA Joint Summits | 2016\\
+AMIA Annual Symposium | 2014-15\\
+KAIS | 2015\\
+Machine Learning | 2016
 \sectionsep
 
 \subsection{Editorial Work}
 \descript{ACM - XRDS Magazine}
 \descriptsmall{Department Editor}
-\location{Jan 12 – Present}
+\location{Jan 12 – Dec 15}
 Editor for Back, a then-now comparison of technology fitting the issue theme.
 \sectionsep
 
@@ -210,8 +213,12 @@ Consulting on data collection and processing, design and implementation of predi
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{minipage}
+\hfill
+\sectionsep
 
-\section{Selected Publications} 
+\section{Selected Publications}
+\sectionsep
+
 \bibliographystyle{abbrv}
 \small{
 \bibliography{publications}
