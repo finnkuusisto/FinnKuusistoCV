@@ -36,7 +36,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Finn}{Kuusisto}{ 
 \urlstyle{same}\url{http://cs.wisc.edu/~finn} \\
-\href{mailto:finn@cs.wisc.edu}{finn@cs.wisc.edu} | 651.434.2478
+\href{mailto:finn.kuusisto@gmail.com}{finn.kuusisto@gmail.com} | 651.434.2478
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -52,8 +52,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Research}
-\textbf{My research is in machine learning and data mining, with applications in medicine.
-In particular, my work focuses on employing clinical and genetic data in treatment assignment, adverse drug event prediction, integration of expert knowledge in model development, and precision medicine in general.
+\textbf{My research is in machine learning and data mining, with applications in biology and medicine.
+In particular, my work focuses on employing clinical, genetic, and text data in predicting drug effects, treatment assignment, toxicity prediction, integration of expert knowledge, and precision medicine in general.
 }
 \sectionsep
 
@@ -132,7 +132,7 @@ Github:// \href{https://github.com/finnkuusisto}{\bf finnkuusisto}
 \runsubsection{University of Wisconsin - Madison}
 \descript{| Madison, WI}
 \descript{PhD | Computer Science \footnotesize{(Machine Learning)}}
-\location{January 10 - August 2015}
+\location{January 10 - August 15}
 \descript{MS | Computer Science}
 \location{September 08 - December 09}
 \sectionsep
@@ -156,7 +156,7 @@ President's List \textbullet{} Dean's List \textbullet{} Cross Country \textbull
 \descript{| Madison, WI}
 
 \descriptsmall{Postdoctoral Research Associate | September 15 – Present}
-Research with the Regenerative Biology lab building models from genetic expression data to predict when compounds are toxic to developing neurological tissues.
+Research with the Regenerative Biology lab building predictive models of developmental toxicity from gene expression data, and doing text mining for cell reprogramming and drug repurposing.
 \sectionsep
 
 %------------------------%
