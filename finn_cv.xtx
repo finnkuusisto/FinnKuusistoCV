@@ -219,7 +219,7 @@ Consulting on data collection and processing, design and implementation of predi
 \section{Selected Publications}
 \sectionsep
 
-\bibliographystyle{abbrv}
+\bibliographystyle{unsrtabbrv}
 \small{
 \bibliography{publications}
 }
