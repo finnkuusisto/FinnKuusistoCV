@@ -64,13 +64,13 @@ In particular, my work focuses on employing clinical, genetic, and text data in 
 \section{Technical Skills}
 
 \subsection{Languages}
-Java \textbullet{}  Python \textbullet{} R \textbullet{} C\# \textbullet{} C++ \textbullet{} C \\
+Python \textbullet{}  Java \textbullet{} R \textbullet{} C\# \textbullet{} C++ \textbullet{} C \\
 Javascript \textbullet{} Prolog \textbullet{} Lua \textbullet{} \LaTeX\
 \sectionsep
 
 \subsection{Tools and APIs}
-MySQL \textbullet{} Git \textbullet{} Weka \textbullet{} SciKit-Learn \\
-Play Framework 2.0 \textbullet{} Flask Framework
+SciKit-Learn \textbullet{} TensorFlow \textbullet{} Git \\
+Weka \textbullet{} MySQL \textbullet{} Flask Framework
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -80,11 +80,11 @@ Play Framework 2.0 \textbullet{} Flask Framework
 \section{Community Work}
 
 \subsection{Peer Reviewing}
-NIPS | 2015\\
-ICML | 2016\\
+NIPS | 2015, 17\\
+ICML | 2016-17\\
 AIStats | 2015-16\\
-AMIA Joint Summits | 2016\\
-AMIA Annual Symposium | 2014-15\\
+AMIA Joint Summits | 2016-17\\
+AMIA Annual Symposium | 2014-15, 17\\
 KAIS | 2015\\
 Machine Learning | 2016
 \sectionsep
