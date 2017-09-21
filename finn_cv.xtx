@@ -129,18 +129,13 @@ Github:// \href{https://github.com/finnkuusisto}{\bf finnkuusisto}
 
 \section{Education} 
 
-\runsubsection{University of Wisconsin - Madison}
-\descript{| Madison, WI}
-\descript{PhD | Computer Science \footnotesize{(Machine Learning)}}
-\location{January 10 - August 15}
-\descript{MS | Computer Science}
-\location{September 08 - December 09}
+\descript{University of Wisconsin | Madison, WI}
+\location{PhD | Computer Science | January 10 - August 15}
+\location{MS \hspace{.45em}| Computer Science | September 08 - December 09}
 \sectionsep
 
-\runsubsection{Gustavus Adolphus College}
-\descript{| St. Peter, MN}
-\descript{BA | Computer Science, Classics}
-\location{August 03 - May 07}
+\descript{Gustavus Adolphus College | St. Peter, MN}
+\location{BA | Computer Science, Classics | August 03 - May 07}
 Magna Cum Laude \textbullet{} Phi Beta Kappa honor society \textbullet{} Eta Sigma Phi honor society \\
 President's List \textbullet{} Dean's List \textbullet{} Cross Country \textbullet{} Track \& Field
 
