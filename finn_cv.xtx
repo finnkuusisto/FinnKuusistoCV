@@ -52,8 +52,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Research}
-\textbf{My research is in machine learning and data mining, with applications in biology and medicine.
-In particular, my work focuses on employing clinical, genetic, and text data in predicting drug effects, treatment assignment, toxicity prediction, integration of expert knowledge, and precision medicine in general.
+\researchstatement{My research is in machine learning and data mining, with a primary focus in biomedical applications.
+In particular, I work on employing clinical, genetic, and text data in predicting drug effects, treatment assignment, toxicity prediction, integration of expert knowledge, and precision medicine in general.
 }
 \sectionsep
 
@@ -63,12 +63,9 @@ In particular, my work focuses on employing clinical, genetic, and text data in 
 
 \section{Technical Skills}
 
-\subsection{Languages}
+\subsection{Languages and Tools}
 Python \textbullet{}  Java \textbullet{} R \textbullet{} C\# \textbullet{} C++ \textbullet{} C \\
-Javascript \textbullet{} Prolog \textbullet{} Lua \textbullet{} \LaTeX\
-\sectionsep
-
-\subsection{Tools and APIs}
+Javascript \textbullet{} Prolog \textbullet{} Lua \textbullet{} \LaTeX \\
 SciKit-Learn \textbullet{} TensorFlow \textbullet{} Git \\
 Weka \textbullet{} MySQL \textbullet{} Flask Framework
 \sectionsep
@@ -90,10 +87,12 @@ Machine Learning | 2016
 \sectionsep
 
 \subsection{Editorial Work}
-\descript{ACM - XRDS Magazine}
-\descriptsmall{Department Editor}
-\location{Jan 12 – Dec 15}
+\jobtitle{ACM - XRDS Magazine | Jan 12 - Dec 15}
 Editor for Back, a then-now comparison of technology fitting the issue theme.
+\sectionsep
+
+\subsection{Mentoring}
+Mentor for local startups and undergraduate research projects.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -129,15 +128,13 @@ Github:// \href{https://github.com/finnkuusisto}{\bf finnkuusisto}
 
 \section{Education} 
 
-\descript{University of Wisconsin | Madison, WI}
-\location{PhD | Computer Science | January 10 - August 15}
-\location{MS \hspace{.45em}| Computer Science | September 08 - December 09}
-\sectionsep
+\employerloc{University of Wisconsin}{Madison, WI}
+\jobtitle{PhD | Computer Science | Jan 10 - Aug 15}
+\jobtitle{MS | Computer Science | Sep 08 - Dec 09}
 
-\descript{Gustavus Adolphus College | St. Peter, MN}
-\location{BA | Computer Science, Classics | August 03 - May 07}
-Magna Cum Laude \textbullet{} Phi Beta Kappa honor society \textbullet{} Eta Sigma Phi honor society \\
-President's List \textbullet{} Dean's List \textbullet{} Cross Country \textbullet{} Track \& Field
+\employerloc{Gustavus Adolphus College}{St. Peter, MN}
+\jobtitle{BA | Computer Science, Classics | Aug 03 - May 07}
+Magna Cum Laude \textbullet{} Phi Beta Kappa \textbullet{} Eta Sigma Phi \textbullet{} Cross Country \textbullet{} Track \& Field
 
 \sectionsep
 
@@ -147,60 +144,46 @@ President's List \textbullet{} Dean's List \textbullet{} Cross Country \textbull
 
 \section{Experience}
 
-\runsubsection{Morgridge Institute for Research}
-\descript{| Madison, WI}
-
-\descriptsmall{Postdoctoral Research Associate | September 15 – Present}
+\employerloc{Morgridge Institute for Research}{Madison, WI}
+\jobtitle{Postdoctoral Fellow | Jul 17 - Present}
+\jobtitle{Postdoctoral Research Associate | Sep 15 - Jun 17}
 Research with the Regenerative Biology lab building predictive models of developmental toxicity from gene expression data, and doing text mining for cell reprogramming and drug repurposing.
 \sectionsep
 
 %------------------------%
 
-\runsubsection{University of Wisconsin - Madison}
-\descript{| Madison, WI}
-
-\descriptsmall{Research Assistant | May 11 – August 15}
+\employerloc{University of Wisconsin}{Madison, WI}
+\jobtitle{Research Assistant | May 11 - Aug 15}
 Research with Jude Shavlik, David Page, and Elizabeth Burnside in uplift modeling, breast cancer prediction, adverse drug event prediction, and precision medicine.
 
-\descriptsmall{Lecturer | June 10 - August 10}
+\jobtitle{Lecturer | Jun 10 - Aug 10}
 Lecturer for 8-week summer session of the intro CS course.
 Included development of course syllabus, preparing/grading assignments/exams, and supervising a TA.
 
-\descriptsmall{Teaching Assistant | September 08 - May 11}
+\jobtitle{Teaching Assistant | Sep 08 - May 11}
 Teaching assistant for the intro CS course.
 Included four semesters as a section instructor, and two semesters as a lab TA.
 \sectionsep
 
 %------------------------%
 
-\runsubsection{Consulting}
-\descript{| Madison, WI}
-
-\descriptsmall{Data Science Consultant | November 14 – August 15}
+\employerloc{Consulting}{Madison, WI}
+\jobtitle{Data Science Consultant | Nov 14 - Aug 15}
 Consulting on data collection and processing, design and implementation of predictive modeling pipelines, and model evaluation and selection.
-%\vspace{\topsep} % Hacky fix for awkward extra vertical space
-%\begin{tightemize}
-%\item Data collection and processing
-%\item Design and implementation of predictive modeling pipelines
-%\item Model evaluation and selection
-%\end{tightemize}
 \sectionsep
 
 %------------------------%
 
-\runsubsection{Remugio}
-\descript{| Madison, WI}
-
-\descriptsmall{Co-Founder | September 14 – Present}
+\employerloc{Remugio}{Madison, WI}
+\jobtitle{Co-Founder | Sep 14 - Present}
+Second-by-second feedback from viewers on video content.\\
+gBeta Accelerator Summer 2016 \textbullet{} Madworks Accelerator Fall 2016
 \sectionsep
 
 %------------------------%
 
-\runsubsection{Open Systems International}
-\descript{| Plymouth, MN}
-
-\descriptsmall{Software Engineer | August 07 – August 08}
-% Developed SCADA software for power systems, and worked on the compile team.
+\employerloc{Open Systems International}{Plymouth, MN}
+\jobtitle{Software Engineer | Aug 07 - Aug 08}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
