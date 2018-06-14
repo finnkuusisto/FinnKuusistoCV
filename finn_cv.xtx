@@ -64,10 +64,9 @@ In particular, I work on employing clinical, genetic, and text data in predictin
 \section{Technical Skills}
 
 \subsection{Languages and Tools}
-Python \textbullet{}  Java \textbullet{} R \textbullet{} C\# \textbullet{} C++ \textbullet{} C \\
-Javascript \textbullet{} Prolog \textbullet{} Lua \textbullet{} \LaTeX \\
-SciKit-Learn \textbullet{} TensorFlow \textbullet{} Git \\
-Weka \textbullet{} MySQL \textbullet{} Flask Framework
+Python \textbullet{}  Java \textbullet{} JS \textbullet{} C\# \textbullet{} C++ \textbullet{} C \\
+\LaTeX \textbullet{} SciKit-Learn \textbullet{} TensorFlow \\
+Git \textbullet{} MySQL \textbullet{} Flask Framework
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -77,14 +76,9 @@ Weka \textbullet{} MySQL \textbullet{} Flask Framework
 \section{Community Work}
 
 \subsection{Peer Reviewing}
-NIPS | 2015, 17\\
-ICML | 2016-17\\
-AIStats | 2015-16\\
-AMIA Joint Summits | 2016-17\\
-AMIA Annual Symposium | 2014-15, 17\\
-KAIS | 2015\\
-Machine Learning | 2016
+NIPS \textbullet{} ICML \textbullet{} AAAI \textbullet{} AIStats \textbullet{} AMIA Informatics Summit \textbullet{} AMIA Annual Symposium \textbullet{} Machine Learning \textbullet{} DAMI \textbullet{} KAIS
 \sectionsep
+\vspace{-1em} % stupid hack to get spacing right
 
 \subsection{Editorial Work}
 \jobtitle{ACM - XRDS Magazine | Jan 12 - Dec 15}
@@ -93,6 +87,10 @@ Editor for Back, a then-now comparison of technology fitting the issue theme.
 
 \subsection{Mentoring}
 Mentor for local startups and undergraduates at Gustavus and UW-Madison.
+\sectionsep
+
+\subsection{Badgerloop}
+Contribute software on UW-Madison's Hyperloop pod competition team.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
