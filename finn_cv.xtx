@@ -76,9 +76,9 @@ Git \textbullet{} MySQL \textbullet{} Flask Framework
 \section{Community Work}
 
 \subsection{Peer Reviewing}
-NIPS \textbullet{} ICML \textbullet{} AAAI \textbullet{} AIStats \textbullet{} AMIA Informatics Summit \textbullet{} AMIA Annual Symposium \textbullet{} Machine Learning \textbullet{} DAMI \textbullet{} KAIS
+NIPS \textbullet{} ICML \textbullet{} AAAI \textbullet{} AIStats \textbullet{} AMIA Informatics Summit \textbullet{} AMIA Annual Symposium \textbullet{} Machine Learning \textbullet{} KAIS \textbullet{} DAMI
 \sectionsep
-\vspace{-1em} % stupid hack to get spacing right
+\vspace{-1.1em} % stupid hack to get spacing right
 
 \subsection{Editorial Work}
 \jobtitle{ACM - XRDS Magazine | Jan 12 - Dec 15}
@@ -90,7 +90,7 @@ Mentor for local startups and undergraduates at Gustavus and UW-Madison.
 \sectionsep
 
 \subsection{Badgerloop}
-Contribute software on UW-Madison's Hyperloop pod competition team.
+Member of UW-Madison's Hyperloop pod competition team.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -173,7 +173,7 @@ Consulting on data collection and processing, design and implementation of predi
 %------------------------%
 
 \employerloc{Remugio}{Madison, WI}
-\jobtitle{Co-Founder | Sep 14 - Present}
+\jobtitle{Co-Founder | Sep 14 - Apr 18}
 Second-by-second feedback from viewers on video content.\\
 gBeta Accelerator Summer 2016 \textbullet{} Madworks Accelerator Fall 2016
 \sectionsep
