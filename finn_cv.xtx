@@ -51,9 +51,11 @@
 %     Research
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
-\researchstatement{My research is in machine learning and data mining, with a primary focus in biomedical applications.
-In particular, I work on employing clinical, genetic, and text data in predicting drug effects, treatment assignment, toxicity prediction, integration of expert knowledge, and precision medicine in general.
+\section{Overview}
+
+\researchstatement{My primary expertise is in machine learning and data science, with an emphasis on biomedical applications.
+I have worked on clinical, genetic, and text data in predicting drug effects, treatment assignment, integration of expert knowledge, and precision medicine in general.
+Overal, my life's work is aimed at using machine learning responsibly to improve human quality of life.
 }
 \sectionsep
 
@@ -78,7 +80,6 @@ Git \textbullet{} MySQL \textbullet{} Flask Framework
 \subsection{Peer Reviewing}
 NIPS \textbullet{} ICML \textbullet{} AAAI \textbullet{} AIStats \textbullet{} AMIA Informatics Summit \textbullet{} AMIA Annual Symposium \textbullet{} Machine Learning \textbullet{} KAIS \textbullet{} DAMI
 \sectionsep
-\vspace{-1.1em} % stupid hack to get spacing right
 
 \subsection{Editorial Work}
 \jobtitle{ACM - XRDS Magazine | Jan 12 - Dec 15}
@@ -102,7 +103,6 @@ Member of UW-Madison's team for the 2018 Hyperloop Pod Competition.
 LinkedIn://  \href{https://www.linkedin.com/pub/finn-kuusisto/7/17b/363}{\bf finn-kuusisto} \\
 Github:// \href{https://github.com/finnkuusisto}{\bf finnkuusisto}
 
-\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     BUFFER COLUMN
@@ -142,8 +142,15 @@ Magna Cum Laude \textbullet{} Phi Beta Kappa \textbullet{} Eta Sigma Phi \textbu
 
 \section{Experience}
 
+\employerloc{FANTM}{Madison, WI}
+\jobtitle{Co-Founder | Sep 20 - Present}
+Building hardware and software for the future of human-computer inegration.
+\sectionsep
+
+%------------------------%
+
 \employerloc{Morgridge Institute for Research}{Madison, WI}
-\jobtitle{Postdoctoral Fellow | Jul 17 - Present}
+\jobtitle{Postdoctoral Fellow | Jul 17 - Sep 20}
 \jobtitle{Postdoctoral Research Associate | Sep 15 - Jun 17}
 Research with the Regenerative Biology lab building predictive models of toxicity from gene expression, and doing text mining for cell reprogramming and drug repurposing. Includes mentoring graduate and undergraduate research assistants.
 \sectionsep
@@ -173,25 +180,20 @@ Consulting on data collection and processing, design and implementation of predi
 
 \employerloc{Remugio}{Madison, WI}
 \jobtitle{Co-Founder | Sep 14 - Apr 18}
-Second-by-second feedback from viewers on video content.\\
-gBeta Accelerator Summer 2016 \textbullet{} Madworks Accelerator Fall 2016
-\sectionsep
-
+\vspace{-0.5em}
 %------------------------%
 
 \employerloc{Open Systems International}{Plymouth, MN}
 \jobtitle{Software Engineer | Aug 07 - Aug 08}
-\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PUBLICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{minipage}
 \hfill
-\sectionsep
 
 \section{Selected Publications}
-\sectionsep
+\vspace{2.5em}
 
 \bibliographystyle{unsrtabbrv}
 \small{
