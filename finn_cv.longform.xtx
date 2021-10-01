@@ -54,7 +54,7 @@
 \section{Overview}
 
 \researchstatement{My primary expertise is in machine learning and data science, with an emphasis on biomedical applications.
-I have worked on clinical, genetic, and text data in predicting drug effects, treatment assignment, integration of expert knowledge, and precision medicine in general.
+I have worked with clinical, genetic, and text data for predicting drug effects, treatment assignment, integration of expert knowledge, precision medicine in general, and I have more recently worked with biopotential signals to drive intelligent control systems for biomechatronics and other digital systems.
 Overall, my life's work is aimed at using machine learning responsibly to improve human quality of life.
 }
 \sectionsep
@@ -77,8 +77,8 @@ Git \textbullet{} MySQL \textbullet{} Flask Framework
 
 \section{Community Work}
 
-\subsection{Peer Reviewing}
-NIPS \textbullet{} ICML \textbullet{} AAAI \textbullet{} AIStats \textbullet{} AMIA Informatics Summit \textbullet{} AMIA Annual Symposium \textbullet{} Machine Learning \textbullet{} KAIS \textbullet{} DAMI
+\subsection{Academic Peer Review}
+NeurIPS \textbullet{} ICML \textbullet{} AAAI \textbullet{} AIStats \textbullet{} AMIA Informatics Summit \textbullet{} AMIA Annual Symposium \textbullet{} Machine Learning Journal \textbullet{} KAIS \textbullet{} DAMI
 \sectionsep
 
 \subsection{Editorial Work}
@@ -173,24 +173,38 @@ Four semesters as an instructor, and two as a lab TA for the intro CS course.
 
 \employerloc{Consulting}{Madison, WI}
 \jobtitle{Data Science Consultant | Nov 14 - Aug 15}
-Consulting on data collection and processing, design and implementation of predictive modeling pipelines, and model evaluation and selection.
+Consulting with large and small businesses on data collection and processing, design and implementation of predictive modeling pipelines, and model evaluation and selection.
 \sectionsep
 
 %------------------------%
 
 \employerloc{Remugio}{Madison, WI}
 \jobtitle{Co-Founder | Sep 14 - Apr 18}
-\vspace{-0.5em}
+Founder and full-stack developer of web application for video content creators to get second-by-second viewer feedback. Accepted for gBeta 2016 summer startup accelerator program and Madworks 2016 fall startup accelerator program.
+\sectionsep
+
 %------------------------%
 
 \employerloc{Open Systems International}{Plymouth, MN}
 \jobtitle{Software Engineer | Aug 07 - Aug 08}
+Developed supervisory control and data acquisition (SCADA) software for power systems operating worldwide.
+\sectionsep
+
+%------------------------%
+
+\employerloc{Gustavus Adolphus College}{St. Peter, MN}
+\jobtitle{Technology Services | Sep 03 - May 07}
+Helped administer and maintain information technology services across entire college campus.
+\jobtitle{Collegiate Fellow | Sep 05 - May 06}
+Resident Assistant for roughly 50 male freshmen.
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
+%     PUBLICATIONS - NEW PAGE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \end{minipage}
 \hfill
+\newpage
 
 \section{Selected Publications}
 \vspace{2.5em}
