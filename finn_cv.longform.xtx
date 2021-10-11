@@ -71,6 +71,11 @@ Python \textbullet{}  Java \textbullet{} JS \textbullet{} C\# \textbullet{} C++ 
 Git \textbullet{} MySQL \textbullet{} Flask Framework
 \sectionsep
 
+\subsection{Certifications}
+CompTIA Security+ | Oct 20 \\
+CompTIA PenTest+ | Dec 21 (expected)
+\sectionsep
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COMMUNITY WORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,15 +88,16 @@ NeurIPS \textbullet{} ICML \textbullet{} AAAI \textbullet{} AIStats \textbullet{
 
 \subsection{Editorial Work}
 \jobtitle{ACM - XRDS Magazine | Jan 12 - Dec 15}
-Editor for Back, a then-now comparison of technology fitting the issue theme.
+Editor for Back, a then vs now comparison of technology fitting the issue theme.
 \sectionsep
 
 \subsection{Mentoring}
-Mentor for local startups and undergraduates at Gustavus and UW-Madison.
+Mentor for numerous startups going through local accelerator program, undergraduates at Gustavus Adolphus College, and undergraduates and graduates at UW-Madison.
 \sectionsep
 
 \subsection{Badgerloop}
 Member of UW-Madison's team for the 2018 Hyperloop Pod Competition.
+Wrote microcontroller and network communications software for the pod control systems.
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -143,8 +149,9 @@ Magna Cum Laude \textbullet{} Phi Beta Kappa \textbullet{} Eta Sigma Phi \textbu
 \section{Experience}
 
 \employerloc{FANTM}{Madison, WI}
-\jobtitle{Co-Founder | Sep 20 - Present}
+\jobtitle{Co-Founder and CEO | Sep 20 - Present}
 Building hardware and software for the future of human-computer integration.
+Assist with hardware design efforts and lead design and development of software packages to collect electromyography sensor data, filter and process the data, and train machine learning models to translate the data into controls for biomechatronic or other digital systems.
 \sectionsep
 
 %------------------------%
@@ -173,7 +180,8 @@ Four semesters as an instructor, and two as a lab TA for the intro CS course.
 
 \employerloc{Consulting}{Madison, WI}
 \jobtitle{Data Science Consultant | Nov 14 - Aug 15}
-Consulting with large and small businesses on data collection and processing, design and implementation of predictive modeling pipelines, and model evaluation and selection.
+Consulting with large and small businesses on machine learning initiatives.
+Data collection and processing, design and implementation of predictive modeling pipelines, and model evaluation and selection.
 \sectionsep
 
 %------------------------%
@@ -187,7 +195,7 @@ Founder and full-stack developer of web application for video content creators t
 
 \employerloc{Open Systems International}{Plymouth, MN}
 \jobtitle{Software Engineer | Aug 07 - Aug 08}
-Developed supervisory control and data acquisition (SCADA) software for power systems operating worldwide.
+Developed supervisory control and data acquisition (SCADA) software for power systems operating around the world.
 \sectionsep
 
 %------------------------%
@@ -195,6 +203,7 @@ Developed supervisory control and data acquisition (SCADA) software for power sy
 \employerloc{Gustavus Adolphus College}{St. Peter, MN}
 \jobtitle{Technology Services | Sep 03 - May 07}
 Helped administer and maintain information technology services across entire college campus.
+Tech help for 2,500+ students and staff.\\
 \jobtitle{Collegiate Fellow | Sep 05 - May 06}
 Resident Assistant for roughly 50 male freshmen.
 \sectionsep
