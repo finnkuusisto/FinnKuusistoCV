@@ -220,7 +220,7 @@ Resident Assistant for roughly 50 male freshmen.
 
 \bibliographystyle{unsrtabbrv}
 \small{
-\bibliography{publications}
+\bibliography{publications.longform.bib}
 }
 \nocite{*}
 
