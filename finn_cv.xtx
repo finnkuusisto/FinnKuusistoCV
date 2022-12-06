@@ -35,7 +35,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Finn}{Kuusisto}{ 
-\urlstyle{same}\url{http://cs.wisc.edu/~finn} \\
+\href{http://cs.wisc.edu/~finn}{\bf Homepage} | \href{https://www.linkedin.com/pub/finn-kuusisto/7/17b/363}{\bf LinkedIn} | \href{https://github.com/finnkuusisto}{\bf Github} \\
 \href{mailto:finn.kuusisto@gmail.com}{finn.kuusisto@gmail.com} | 651.434.2478
 }
 
@@ -68,16 +68,16 @@ My life's work is aimed at using machine learning responsibly to improve human q
 \subsection{Languages and Tools}
 Python \textbullet{}  Java \textbullet{} JS \textbullet{} C\# \textbullet{} C++ \textbullet{} C \\
 \LaTeX \textbullet{} SciKit-Learn \textbullet{} TensorFlow \\
-Git \textbullet{} MySQL \textbullet{} Flask Framework
+Keras \textbullet{} Git \textbullet{} MySQL
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COMMUNITY WORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Community Work}
+\section{Service}
 
-\subsection{Peer Reviewing}
+\subsection{Peer Review}
 NIPS \textbullet{} ICML \textbullet{} AAAI \textbullet{} AIStats \textbullet{} AMIA Informatics Summit \textbullet{} AMIA Annual Symposium \textbullet{} Machine Learning \textbullet{} KAIS \textbullet{} DAMI
 \sectionsep
 
@@ -90,19 +90,11 @@ Editor for Back, a then-now comparison of technology fitting the issue theme.
 Mentor for local startups and undergraduates at Gustavus and UW-Madison.
 \sectionsep
 
-\subsection{Badgerloop}
-Member of UW-Madison's team for the 2018 Hyperloop Pod Competition.
+\subsection{US Air Force Reserve}
+Currently assigned to the joint Department of the Air Force / MIT AI Accelerator. Previously served as a Cyber Operations Officer at the 911th AW.
+\vspace{0.5em}
+
 \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     Links
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Links}
-
-LinkedIn://  \href{https://www.linkedin.com/pub/finn-kuusisto/7/17b/363}{\bf finn-kuusisto} \\
-Github:// \href{https://github.com/finnkuusisto}{\bf finnkuusisto}
-
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     BUFFER COLUMN
@@ -143,8 +135,8 @@ Magna Cum Laude \textbullet{} Phi Beta Kappa \textbullet{} Eta Sigma Phi \textbu
 \section{Experience}
 
 \employerloc{FANTM}{Madison, WI}
-\jobtitle{Co-Founder | Sep 20 - Present}
-Building hardware and software for the future of human-computer integration.
+\jobtitle{Co-Founder | Sep 20 - Dec 22}
+Next-generation hardware and software for human-computer integration. Venture-backed and took 2nd in category at the 2022 WI Governor's Business Plan Contest.
 \sectionsep
 
 %------------------------%
@@ -176,11 +168,6 @@ Four semesters as an instructor, and two as a lab TA for the intro CS course.
 Consulting on data collection and processing, design and implementation of predictive modeling pipelines, and model evaluation and selection.
 \sectionsep
 
-%------------------------%
-
-\employerloc{Remugio}{Madison, WI}
-\jobtitle{Co-Founder | Sep 14 - Apr 18}
-\vspace{-0.5em}
 %------------------------%
 
 \employerloc{Open Systems International}{Plymouth, MN}
