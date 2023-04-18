@@ -68,7 +68,7 @@ My life's work is aimed at using machine learning responsibly to improve human q
 \subsection{Languages and Tools}
 Python \textbullet{}  Java \textbullet{} JS \textbullet{} C\# \textbullet{} C++ \textbullet{} C \\
 \LaTeX \textbullet{} SciKit-Learn \textbullet{} TensorFlow \\
-Keras \textbullet{} Git \textbullet{} MySQL
+Keras \textbullet{} PyTorch \textbullet{} Git \textbullet{} MySQL
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -134,22 +134,10 @@ Magna Cum Laude \textbullet{} Phi Beta Kappa \textbullet{} Eta Sigma Phi \textbu
 
 \section{Experience}
 
-\employerloc{FANTM}{Madison, WI}
-\jobtitle{Co-Founder | Sep 20 - Dec 22}
-Next-generation hardware and software for human-computer integration. Venture-backed and took 2nd in category at the 2022 WI Governor's Business Plan Contest.
-\sectionsep
-
-%------------------------%
-
-\employerloc{Morgridge Institute for Research}{Madison, WI}
-\jobtitle{Postdoctoral Fellow | Jul 17 - Sep 20}
-\jobtitle{Postdoctoral Research Associate | Sep 15 - Jun 17}
-Research with the Regenerative Biology lab building predictive models of toxicity from gene expression, and doing text mining for cell reprogramming and drug repurposing. Includes mentoring graduate and undergraduate research assistants.
-\sectionsep
-
-%------------------------%
-
 \employerloc{University of Wisconsin}{Madison, WI}
+\jobtitle{Data Scientist | Jan 23 - present}
+Helping to establish the new Data Science Institute. Collaborative data science research with groups across campus and external non-profit and corporate partners.
+
 \jobtitle{Research Assistant | May 11 - Aug 15}
 Research with Jude Shavlik, David Page, and Elizabeth Burnside in uplift modeling, breast cancer prediction, adverse drug event prediction, and precision medicine.
 
@@ -163,10 +151,24 @@ Four semesters as an instructor, and two as a lab TA for the intro CS course.
 
 %------------------------%
 
+\employerloc{FANTM}{Madison, WI}
+\jobtitle{Co-Founder | Sep 20 - Dec 22}
+Next-generation hardware and software for human-computer integration.
+\sectionsep
+
+%------------------------%
+
+\employerloc{Morgridge Institute for Research}{Madison, WI}
+\jobtitle{Postdoctoral Fellow | Jul 17 - Sep 20}
+\jobtitle{Postdoctoral Research Associate | Sep 15 - Jun 17}
+Research with the Regenerative Biology lab building predictive models of toxicity from gene expression, and doing text mining for cell reprogramming and drug repurposing. Includes mentoring graduate and undergraduate research assistants.
+\sectionsep
+
+%------------------------%
+
 \employerloc{Consulting}{Madison, WI}
 \jobtitle{Data Science Consultant | Nov 14 - Aug 15}
-Consulting on data collection and processing, design and implementation of predictive modeling pipelines, and model evaluation and selection.
-\sectionsep
+\vspace{-0.5em}
 
 %------------------------%
 
