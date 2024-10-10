@@ -87,12 +87,9 @@ Editor for Back, a then-now comparison of technology fitting the issue theme.
 \sectionsep
 
 \subsection{Mentoring}
-Mentor for local startups and undergraduates at Gustavus and UW-Madison.
+Mentor for local startups on machine learning, data science, and national security topics.
+Also mentor undergraduates and junior scientists on general educational and career goals, research projects, and success in an academic setting.
 \sectionsep
-
-\subsection{US Air Force Reserve}
-Currently assigned to the joint Department of the Air Force / MIT AI Accelerator. Previously served as a Cyber Operations Officer at the 911th AW.
-\vspace{0.5em}
 
 \sectionsep
 
@@ -139,15 +136,20 @@ Magna Cum Laude \textbullet{} Phi Beta Kappa \textbullet{} Eta Sigma Phi \textbu
 Helping to establish the new Data Science Institute. Collaborative data science research with groups across campus and external non-profit and corporate partners.
 
 \jobtitle{Research Assistant | May 11 - Aug 15}
-Research with Jude Shavlik, David Page, and Elizabeth Burnside in uplift modeling, breast cancer prediction, adverse drug event prediction, and precision medicine.
+Biomedical applications of machine learning in uplift modeling, breast cancer prediction, adverse drug event prediction, and precision medicine.
 
 \jobtitle{Lecturer | Jun 10 - Aug 10}
-Lecturer for 8-week summer session of the intro CS course.
-Included development of course syllabus, preparing/grading assignments/exams, and supervising a TA.
-
 \jobtitle{Teaching Assistant | Sep 08 - May 11}
-Four semesters as an instructor, and two as a lab TA for the intro CS course.
 \sectionsep
+\vspace{-1em}
+
+%------------------------%
+
+\employerloc{US Air Force}{Cambridge, MA}
+\jobtitle{DAF-MIT AI Accelerator | Feb 22 - present}
+\jobtitle{Cyber Operations Officer | Feb 21 - Feb 22}
+\sectionsep
+\vspace{-1em}
 
 %------------------------%
 
